@@ -1,0 +1,23 @@
+commit c0a57ed0477846f355b26218686790d1fe369b70
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Fri Apr 11 10:21:50 2025 -0600
+
+    Examen Proy
+
+commit bb449b0f62709079df9e7c2e3874aa71f255ee7f
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Fri Apr 11 10:20:53 2025 -0600
+
+    modificacion
+
+commit c7b20bdd478614820ad9dd894a6df3c6b57d5d77
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Fri Apr 11 09:47:01 2025 -0600
+
+    Subiendo Proyecto
+
+commit 70d21c67418d70b5453494835d137a4831b1eb6d
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Thu Apr 10 23:39:08 2025 -0600
+
+    first commit
